@@ -1,0 +1,12 @@
+{
+  "name": "yoake",
+  "version": "1.0.0",
+  "scripts": {
+    "core": "yarn workspace @yoake/handler"
+  },
+  "workspaces": [
+    "packages/**/*"
+  ],
+  "license": "MIT",
+  "private": true
+}
